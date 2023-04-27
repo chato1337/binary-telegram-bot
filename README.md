@@ -40,5 +40,5 @@ docker-compose down
 
 - [Getting started with pipenv](https://python.plainenglish.io/getting-started-with-pipenv-d224328799de)
 - [Cómo construir tu primer paquete de Python](https://www.freecodecamp.org/espanol/news/como-construir-tu-primer-paquete-de-python/)
-- [How to Create a Telegram Bot using Python](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/#:~:text=Type%20%2Fnewbot%20%2C%20and%20follow%20the,access%20to%20the%20Telegram%20API.&text=Note%3A%20Make%20sure%20you%20store,can%20easily%20manipulate%20your%20bot.)``
+- [How to Create a Telegram Bot using Python](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/#:~:text=Type%20%2Fnewbot%20%2C%20and%20follow%20the,access%20to%20the%20Telegram%20API.&text=Note%3A%20Make%20sure%20you%20store,can%20easily%20manipulate%20your%20bot.)
 - [Creating RESTful Web APIs using Flask and Python](https://towardsdatascience.com/creating-restful-apis-using-flask-and-python-655bad51b24)

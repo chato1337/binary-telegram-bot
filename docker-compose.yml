@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+    bot:
+        build: .
+        command: python binary_search_bot/bot.py
+        ports:
+            - "8080:80"
+        environment:
+            - API
+            - PORT
+            - TELEGRAM_TOKEN
